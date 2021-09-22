@@ -1,6 +1,7 @@
 [Uoc Nguyen]: <http://fb.com/nguyenvanuoc>
 
 Author: [Uoc Nguyen]
+
 Pos: UI/UX Desginer, Frontend
 
 
